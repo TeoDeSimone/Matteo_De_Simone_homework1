@@ -10,7 +10,7 @@ This is a report of the Homework 1 of Robotics Lab course using Docker and ROS2 
 
 Open the terminal, open the container and enter into the directory where you want to download the folder, then download it with:
 
-    git clone git clone https://github.com/TeoDeSimone/Matteo_De_Simone_homework1.git
+    git clone https://github.com/TeoDeSimone/Matteo_De_Simone_homework1.git
 
 -------------------------------
 
