@@ -1,5 +1,5 @@
 # Matteo_De_Simone_homework1
-Repository for Homework1 completed in the RoboticsLab course by Matteo De Simone, Marco Bartone, Giacomo Caiazzo, Nicola Monetti.
+Repository for Homework1 completed in the RoboticsLab course by Matteo De Simone (P38000232), Marco Bartone (P38000237), Giacomo Caiazzo (P38000236), Nicola Monetti (P38000238).
 
 ## Robotics Lab - Homework 1
 
